@@ -1,0 +1,15 @@
+# .gitignore
+# Node.js dependencies
+node_modules/              # Project root's node_modules (if present)
+cli-tool/node_modules/     # cli-tool's node_modules
+auction-api/node_modules/  # auction-api's node_modules
+
+# Environment variables
+.env                       # Project root's .env (if present)
+cli-tool/.env              # cli-tool's .env
+auction-api/.env           # auction-api's .env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+.log
