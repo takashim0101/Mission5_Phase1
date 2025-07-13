@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Vintage Maori Carving",
+    "description": "A beautiful, hand-carved wooden Maori statue from the 1950s. Authentic piece.",
+    "start_price": 150.00,
+    "reserve_price": 250.00
+  },
+  {
+    "title": "Rare New Zealand Penny Coin (1940)",
+    "description": "An extremely rare coin from New Zealand's colonial era. Good condition for its age.",
+    "start_price": 50.00,
+    "reserve_price": 80.00
+  },
+  {
+    "title": "Modern Abstract Painting - Ocean View",
+    "description": "Acrylic on canvas, 60x90cm. Depicts a vibrant ocean scene with abstract elements.",
+    "start_price": 300.00,
+    "reserve_price": 450.00
+  },
+  {
+    "title": "Almost New Hiking Backpack (60L)",
+    "description": "Used only once. Ideal for multi-day tramps. Very comfortable and spacious.",
+    "start_price": 80.00,
+    "reserve_price": 120.00
+  }
+]
